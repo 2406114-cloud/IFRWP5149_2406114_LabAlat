@@ -1,0 +1,28 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="n5rs3rHYsDs7ULIKS41Q">
+    <mxGraphModel dx="844" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j6cmo1LYQeeOGWdapTJU-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="sistem laboratorium" vertex="1">
+          <mxGeometry height="450" width="400" x="270" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j6cmo1LYQeeOGWdapTJU-3" parent="j6cmo1LYQeeOGWdapTJU-1" style="ellipse;html=1;whiteSpace=wrap;" value="&lt;div&gt;&lt;p&gt;Kelola jadwal kuliah&lt;/p&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="110" x="125" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="j6cmo1LYQeeOGWdapTJU-2" parent="j6cmo1LYQeeOGWdapTJU-1" style="ellipse;html=1;whiteSpace=wrap;" value="Lihat jadwal kuliah" vertex="1">
+          <mxGeometry height="80" width="120" x="120" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="j6cmo1LYQeeOGWdapTJU-10" edge="1" parent="1" source="j6cmo1LYQeeOGWdapTJU-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="j6cmo1LYQeeOGWdapTJU-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j6cmo1LYQeeOGWdapTJU-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="60" width="30" x="750" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="j6cmo1LYQeeOGWdapTJU-6" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Admin akademikl" vertex="1">
+          <mxGeometry height="60" width="30" x="180" y="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
