@@ -1,0 +1,57 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="MtMuOIR8iUHidsXrzBDH">
+    <mxGraphModel dx="798" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=280;height=70;" value="sistem informasi akaddemik pengajuan&lt;div&gt;dan persetujuan KRS&lt;/div&gt;" vertex="1">
+          <mxGeometry height="730" width="440" x="240" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-15" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="TCcOMv1vzV-kSylmk0K9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelPerimeter=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="80" width="40" x="120" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="ajukan KRS" vertex="1">
+          <mxGeometry height="70" width="140" x="270" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="unduh bukti pengajuan KSR" vertex="1">
+          <mxGeometry height="70" width="140" x="270" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Validasi KRS" vertex="1">
+          <mxGeometry height="70" width="140" x="520" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Proses keputusan KRS" vertex="1">
+          <mxGeometry height="70" width="140" x="530" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-24" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="TCcOMv1vzV-kSylmk0K9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-14" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelPerimeter=1;" value="Dosen wali" vertex="1">
+          <mxGeometry height="80" width="40" x="760" y="645" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-20" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="TCcOMv1vzV-kSylmk0K9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-31" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-8" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="TCcOMv1vzV-kSylmk0K9-6" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" y="-30" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="343.81054682308263" y="610.2080507457672" />
+            </Array>
+            <mxPoint x="480" y="550" as="sourcePoint" />
+            <mxPoint x="340" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-32" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-6" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;defaultLabelBackgroundColor=gap;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="TCcOMv1vzV-kSylmk0K9-9" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="-0.1252" y="10" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="480" y="489.78999999999996" as="sourcePoint" />
+            <mxPoint x="480" y="309.78999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

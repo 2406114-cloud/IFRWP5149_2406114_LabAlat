@@ -1,0 +1,81 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="MtMuOIR8iUHidsXrzBDH">
+    <mxGraphModel dx="798" dy="967" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-1" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=280;height=70;" value="sistem informasi peminjaman dan pengembalian pelaratan labolatorium kampus" vertex="1">
+          <mxGeometry height="730" width="440" x="240" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-15" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;startArrow=none;startFill=0;endArrow=none;endFill=0;" target="TCcOMv1vzV-kSylmk0K9-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-3" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelPerimeter=1;" value="Mahasiswa" vertex="1">
+          <mxGeometry height="80" width="40" x="120" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-21" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-5" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="TCcOMv1vzV-kSylmk0K9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-5" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelPerimeter=1;" value="Petugas Laboran&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="40" x="760" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="lihat ketersediaan peralatan" vertex="1">
+          <mxGeometry height="70" width="140" x="270" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="ajukan peminjaman" vertex="1">
+          <mxGeometry height="70" width="140" x="270" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="cetak bukti pengajuan" vertex="1">
+          <mxGeometry height="70" width="140" x="270" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="kelola data peralatan" vertex="1">
+          <mxGeometry height="70" width="140" x="520" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="periksa ketersediaan" vertex="1">
+          <mxGeometry height="70" width="140" x="500" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="proses keputusan&amp;nbsp;&lt;div&gt;pemunjaman&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="510" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="lihat laporan]&lt;div&gt;peminjaman&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="140" x="470" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-24" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="TCcOMv1vzV-kSylmk0K9-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-14" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;labelPerimeter=1;" value="Kepala&amp;nbsp;&lt;div&gt;Laboran&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="40" x="730" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-16" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.003;entryY=0.632;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="TCcOMv1vzV-kSylmk0K9-7">
+          <mxGeometry relative="1" x="-0.0307" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-20" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="TCcOMv1vzV-kSylmk0K9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-22" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="TCcOMv1vzV-kSylmk0K9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-23" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-11" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=gap;endArrow=none;endFill=0;" target="TCcOMv1vzV-kSylmk0K9-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-30" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-7" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;defaultLabelBackgroundColor=gap;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="TCcOMv1vzV-kSylmk0K9-10" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="0.0826" y="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="480" y="550" as="sourcePoint" />
+            <mxPoint x="400" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TCcOMv1vzV-kSylmk0K9-31" edge="1" parent="1" source="TCcOMv1vzV-kSylmk0K9-8" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=sequenceEdgeStyle;libavoidRouting=0;curved=0;rounded=0;defaultLabelBackgroundColor=gap;" target="TCcOMv1vzV-kSylmk0K9-7" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" x="0.0479" y="-16" as="geometry">
+            <mxPoint as="offset" />
+            <Array as="points">
+              <mxPoint x="397.0996875589574" y="612.1579909114009" />
+            </Array>
+            <mxPoint x="480" y="550" as="sourcePoint" />
+            <mxPoint x="400" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
