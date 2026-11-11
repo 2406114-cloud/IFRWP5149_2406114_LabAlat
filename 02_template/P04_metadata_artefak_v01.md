@@ -3,7 +3,7 @@
 | Elemen | Keterangan |
 |---|---|
 | Mata kuliah | Praktikum Analisis dan Desain Berorientasi Objek |
-| Repository | `IFRWP5149_2406043_LabAlat` |
+| Repository | `IFRWP5149_2406114_LabAlat` |
 | Pertemuan | P04 - Use Case Diagram Lanjutan: Generalization dan Collaboration |
 | Versi metadata | v01 |
 | Tanggal penyusunan paket | 25 Oktober 2026 |
